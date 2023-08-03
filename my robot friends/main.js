@@ -24,7 +24,7 @@ axios.get(INDEX_URL)
     getLover()
   })
 
-  
+
 // --------------- function ----------------//
 
 function renderUserList(data) {
